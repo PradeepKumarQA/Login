@@ -1,3 +1,2 @@
 string x="xyz";
-int  num=10;
 string abc="cfjndfvoped";
