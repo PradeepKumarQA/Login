@@ -1,1 +1,3 @@
 string name = "admin";
+
+button.click();
