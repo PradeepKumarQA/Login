@@ -1,2 +1,2 @@
 string x="xyz";
-String user =" admin_admin";
+String user ="admin";
