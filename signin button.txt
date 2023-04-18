@@ -1,3 +1,6 @@
 class{
 weblement we;
+we.gettext();
+we.click();
+
 }
