@@ -1,6 +1,10 @@
 class{
 weblement we;
-we.gettext();
+String text =we.gettext();
+if(text.equals("xyz")){
 we.click();
+}else{
+getScreenshot();
+}
 
 }
